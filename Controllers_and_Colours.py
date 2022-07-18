@@ -1,3 +1,11 @@
+'''
+Made by Arthur Cury Meirelles
+The goal was to make personalized controllers for rigging.
+Contact:
+    arthurcurymeirelles@hotmail.com
+    https://www.linkedin.com/in/arthurm3d
+'''
+
 import string
 import maya.cmds as cmds
 
